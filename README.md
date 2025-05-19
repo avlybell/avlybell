@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/lSNzUBS6CrPLa/giphy.gif?cid=ecf05e47byop2eq07gjpa3tvlahdbdvffprjdkv2vxvdjm4v&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="70%" alt="leaozinho gif">
-
 # Ei, Bell aqui! s2
 **Engenheira de Software em formação | Futura Engenheira Mecatrônica | Autodidata apaixonada por IA | Amante de gatinhos fofos**
 
@@ -45,6 +43,7 @@ Meu nome é Cibelly e esse é o meu multiverso pessoal de aprendizado, e onde ca
 </p>
 
 ---
+<img src="https://media.giphy.com/media/lSNzUBS6CrPLa/giphy.gif?cid=ecf05e47byop2eq07gjpa3tvlahdbdvffprjdkv2vxvdjm4v&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="70%" alt="leaozinho gif">
 
 > “Programar é escrever poesia pra máquina.”
 >
